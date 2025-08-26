@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://wushaojun321.github.io/categories/</link>
+    <link>https://blog.ai515.com/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:40:26 +0800</lastBuildDate>
-    <atom:link href="https://wushaojun321.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.ai515.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://wushaojun321.github.io/categories/test/</link>
+      <link>https://blog.ai515.com/categories/test/</link>
       <pubDate>Thu, 26 Dec 2024 11:40:26 +0800</pubDate>
-      <guid>https://wushaojun321.github.io/categories/test/</guid>
+      <guid>https://blog.ai515.com/categories/test/</guid>
       <description></description>
     </item>
   </channel>

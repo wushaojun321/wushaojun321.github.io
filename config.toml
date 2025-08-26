@@ -1,5 +1,6 @@
 theme = "paper"
-baseURL = 'https://wushaojun321.github.io/'
+baseURL = 'https://blog.ai515.com/'
+
 languageCode = 'zh-cn'
 publishDir = "docs"
 
@@ -15,8 +16,8 @@ bio = 'Stay hungry, stay foolish.'
 github = 'wushaojun321'
 
 mermaid = true
-[menu]
 
+[menu]
 [[menu.main]]
 name = "首页"
 url = "/"

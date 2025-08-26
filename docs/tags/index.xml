@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://wushaojun321.github.io/tags/</link>
+    <link>https://blog.ai515.com/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 26 Dec 2024 11:40:26 +0800</lastBuildDate>
-    <atom:link href="https://wushaojun321.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.ai515.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>https://wushaojun321.github.io/tags/python/</link>
+      <link>https://blog.ai515.com/tags/python/</link>
       <pubDate>Thu, 26 Dec 2024 11:40:26 +0800</pubDate>
-      <guid>https://wushaojun321.github.io/tags/python/</guid>
+      <guid>https://blog.ai515.com/tags/python/</guid>
       <description></description>
     </item>
   </channel>
