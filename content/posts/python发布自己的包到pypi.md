@@ -3,6 +3,8 @@ title: "Python发布自己的包到pypi"
 date: 2024-12-26T11:40:26+08:00
 tags:
   - Python
+categories: 
+  - test
 featured_image: ""
 description: ""
 ---
